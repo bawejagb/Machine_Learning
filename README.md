@@ -16,3 +16,4 @@ This is the repo of Machine Learning Algorithms implemented in **Python**.
 * **Polynomial Regression**
 * **Genetic Algorithm**
 * **Image Processing**
+* **Algorithms**
